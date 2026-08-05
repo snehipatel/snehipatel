@@ -6,11 +6,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FFC107?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25)](https://www.linkedin.com/in/snehi26)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FFC107?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nandishpatel.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehipatel)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehipatel2612@gmail.com)
+[![TeamUp](https://img.shields.io/badge/TeamUp-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=snehipatel&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/snehipatel)
 
 </div>
 
@@ -121,6 +122,7 @@ me = SnehiPatel()
 🏷️ `Python` `Deep Learning` `Remote Sensing` `Geospatial`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 
@@ -134,6 +136,7 @@ me = SnehiPatel()
 🏷️ `LightGBM` `XGBoost` `Rasterio` `React` `D3.js`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 
@@ -151,6 +154,7 @@ me = SnehiPatel()
 🏷️ `React` `Express` `MongoDB` `JWT`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 
@@ -164,6 +168,7 @@ me = SnehiPatel()
 🏷️ `React` `Node.js` `Hackathon`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 
@@ -181,6 +186,7 @@ me = SnehiPatel()
 🏷️ `Three.js` `React Three Fiber` `WebGL`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 
@@ -194,6 +200,24 @@ me = SnehiPatel()
 🏷️ `Python` `NLP` `AI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👥 TeamUp
+> *Team Collaboration Platform*
+
+🔧 Connects students, freelancers & innovators for hackathons and projects
+📌 Live at teamup.net.in
+🏷️ `Web Dev` `Startup` `Product`
+
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
 
 </td>
 
@@ -233,7 +257,7 @@ me = SnehiPatel()
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/snehipatel/snehipatel/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -243,7 +267,7 @@ me = SnehiPatel()
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehipatel&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -266,8 +290,8 @@ me = SnehiPatel()
 
 *"I don't just process data — I turn it into decisions."*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehi26)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehipatel2612@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
