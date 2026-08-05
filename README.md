@@ -257,17 +257,21 @@ me = SnehiPatel()
 
 <div align="center">
 
-![Snake animation](https://github.com/snehipatel/snehipatel/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/snehipatel/snehipatel/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph & Streak
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehipatel&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=snehipatel&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -277,8 +281,8 @@ me = SnehiPatel()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snehipatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehipatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=snehipatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehipatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
