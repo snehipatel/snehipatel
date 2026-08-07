@@ -443,15 +443,9 @@ me = SnehiPatel()
 &nbsp;
 <a href="https://teamup.net.in"><img src="https://img.shields.io/badge/TeamUp-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="TeamUp"/></a>
 
-<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehipatel/snehipatel/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehipatel/snehipatel/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/snehipatel/snehipatel/output/github-contribution-grid-snake-dark.svg" width="80%" />
-</picture>
 
-<br/><br/>
+<br/>
 
 > **⭐ If you find my projects interesting, consider giving them a star! It motivates me to build more. ⭐**
 
