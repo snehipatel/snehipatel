@@ -68,10 +68,6 @@ class SnehiPatel:
 me = SnehiPatel()
 ```
 
-My days basically go: dream up a concept → build it → break it → fix the bug I definitely just created → repeat until it works → act surprised when it works.
-
-Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into reality — powered by an unreasonable amount of love, coffee, and code (in that exact order; don't @ me).
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -116,10 +112,10 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 <!-- AI/ML -->
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
 &nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
 
 <br/><br/>
 
@@ -134,10 +130,10 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 <br/><br/>
 
 <!-- BI & Data Viz -->
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter"/>
 
 </div>
 
@@ -173,7 +169,7 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehipatel&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Snehi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=snehipatel&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Snehi's%20Contribution%20Graph" alt="Activity Graph"/></a>
 
 </div>
 
@@ -188,22 +184,7 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 <br/>
 
-![Snake animation](https://github.com/snehipatel/snehipatel/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=snehipatel&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github.com/snehipatel/snehipatel/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -223,41 +204,33 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 <td width="50%" valign="top">
 
-### 🌙 Lunar South Pole Ice Detection
-> *Six-Module ML/DL System Architecture*
+<h3>🌙 Lunar South Pole Ice Detection</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-🔬_Active_Research-blueviolet?style=flat-square" alt="Status"/>
-</p>
+<blockquote>Six-Module ML/DL System Architecture</blockquote>
 
-🔭 Detects subsurface **water ice** in doubly shadowed craters using multi-sensor fusion  
-📊 Built on **NASA LRO, Chandrayaan-2 & SELENE/Kaguya** datasets  
-🔄 6-module pipeline: terrain → thermal → spectral → fusion → prediction → visualization
+<p><img src="https://img.shields.io/badge/STATUS-🔬_Active_Research-blueviolet?style=flat-square" alt="Status"/></p>
 
-`Python` `Deep Learning` `Remote Sensing` `Geospatial` `CNN`
+<p>🔭 Detects subsurface <b>water ice</b> in doubly shadowed craters using multi-sensor fusion<br/>
+📊 Built on <b>NASA LRO, Chandrayaan-2 & SELENE/Kaguya</b> datasets<br/>
+🔄 6-module pipeline: terrain → thermal → spectral → fusion → prediction → visualization</p>
 
-[![Repo](https://img.shields.io/badge/📂_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-FF5733?style=for-the-badge)](#)
+<p><code>Python</code> <code>Deep Learning</code> <code>Remote Sensing</code> <code>Geospatial</code> <code>CNN</code></p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌍 AI Climate Digital Twin of India
-> *ISRO BAH 2026 — Problem Statement 5*
+<h3>🌍 AI Climate Digital Twin of India</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-🔧_In_Progress-orange?style=flat-square" alt="Status"/>
-</p>
+<blockquote>ISRO BAH 2026 — Problem Statement 5</blockquote>
 
-🛰 Ingesting **75 years** of IMD gridded data + **INSAT-3D/3DR** satellite LST  
-📈 LightGBM pipeline with **SPI targets**, **ETCCDI indices** & **Mann-Kendall** trend analysis  
-🗺 Interactive 3D visualization of climate predictions across all Indian states
+<p><img src="https://img.shields.io/badge/STATUS-🔧_In_Progress-orange?style=flat-square" alt="Status"/></p>
 
-`LightGBM` `XGBoost` `Rasterio` `React` `D3.js` `Three.js`
+<p>🛰 Ingesting <b>75 years</b> of IMD gridded data + <b>INSAT-3D/3DR</b> satellite LST<br/>
+📈 LightGBM pipeline with <b>SPI targets</b>, <b>ETCCDI indices</b> & <b>Mann-Kendall</b> trend analysis<br/>
+🗺 Interactive 3D visualization of climate predictions across all Indian states</p>
 
-[![Repo](https://img.shields.io/badge/📂_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-FF5733?style=for-the-badge)](#)
+<p><code>LightGBM</code> <code>XGBoost</code> <code>Rasterio</code> <code>React</code> <code>D3.js</code> <code>Three.js</code></p>
 
 </td>
 
@@ -267,68 +240,38 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 <td width="50%" valign="top">
 
-### 🎓 CampusX
-> *MERN Full Stack Platform*
+<h3>🎓 CampusX</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-✅_Shipped-brightgreen?style=flat-square" alt="Status"/>
-</p>
+<blockquote>MERN Full Stack Platform</blockquote>
 
-🎯 Campus technical event management — **137-file** production codebase  
-🔒 JWT auth, RBAC, **13 MongoDB collections**, dark glassmorphism UI  
-👥 Multi-role dashboards for students, organizers, and admins
+<p><img src="https://img.shields.io/badge/STATUS-✅_Shipped-brightgreen?style=flat-square" alt="Status"/></p>
 
-`React` `Express` `MongoDB` `JWT` `TailwindCSS`
+<p>🎯 Campus technical event management — <b>137-file</b> production codebase<br/>
+🔒 JWT auth, RBAC, <b>13 MongoDB collections</b>, dark glassmorphism UI<br/>
+👥 Multi-role dashboards for students, organizers, and admins</p>
 
-[![Repo](https://img.shields.io/badge/📂_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-FF5733?style=for-the-badge)](#)
+<p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>TailwindCSS</code></p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚌 TransitOps
-> *8-Hour Hackathon Speed Build*
+<h3>🚌 TransitOps</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-✅_Shipped-brightgreen?style=flat-square" alt="Status"/>
-</p>
+<blockquote>8-Hour Hackathon Speed Build</blockquote>
 
-🗺 Real-time public transit operations dashboard  
-⚡ Built in 8 hours under hackathon pressure  
-📊 Live tracking, route optimization & analytics
+<p><img src="https://img.shields.io/badge/STATUS-✅_Shipped-brightgreen?style=flat-square" alt="Status"/></p>
 
-`React` `Node.js` `MongoDB` `MapboxGL`
+<p>🗺 Real-time public transit operations dashboard<br/>
+⚡ Built in 8 hours under hackathon pressure<br/>
+📊 Live tracking, route optimization & analytics</p>
 
-[![Repo](https://img.shields.io/badge/📂_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-FF5733?style=for-the-badge)](#)
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>MapboxGL</code></p>
 
 </td>
 
 </tr>
 </table>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-
-<div align="center">
-
-## 🏅 Achievements & Highlights
-
-<br/>
-
-| 🏷 | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Diploma Topper** | Information Technology — **9.60 / 10.00 CGPA** |
-| 🛰️ | **ISRO BAH 2026** | Led full team through Problem Statement 5 — Climate Digital Twin of India |
-| 🌙 | **Lunar Ice Research** | Designed a 6-module ML/DL architecture for subsurface ice detection |
-| 🚀 | **Production Apps** | Built and shipped multiple production-grade full-stack applications |
-| 🧠 | **Hackathon Leader** | Repeat team lead — dashboards, ML pipelines & full apps under tight deadlines |
-| 🛠 | **TeamUp Founder** | Built & deployed a team collaboration platform at [teamup.net.in](https://teamup.net.in) |
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -339,46 +282,42 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 ## 💼 Experience
 
-```
-🚀  PROFESSIONAL JOURNEY
-```
-
 </div>
 
 <table>
 <tr>
 <td width="80">
 
-**2024**
+<b>2024</b>
 
 </td>
 <td>
 
-### 🤖 AI/ML Intern — Legato Web Technologies
+<h3>🤖 AI/ML Intern — Legato Web Technologies</h3>
 
-> `Intelligent Automation` `Predictive Modeling` `Model Development`
+<p><code>Intelligent Automation</code> <code>Predictive Modeling</code> <code>Model Development</code></p>
 
-- Engineered AI/ML solutions involving **intelligent automation** and **predictive analytics**
-- Led model development lifecycle: data preprocessing → experimentation → performance evaluation
-- Integrated AI solutions into production applications, improving decision-making workflows
+<p>• Engineered AI/ML solutions involving <b>intelligent automation</b> and <b>predictive analytics</b><br/>
+• Led model development lifecycle: data preprocessing → experimentation → performance evaluation<br/>
+• Integrated AI solutions into production applications, improving decision-making workflows</p>
 
 </td>
 </tr>
 <tr>
 <td width="80">
 
-**2023**
+<b>2023</b>
 
 </td>
 <td>
 
-### 💻 Web Development Intern — HRP Infra Pvt. Ltd.
+<h3>💻 Web Development Intern — HRP Infra Pvt. Ltd.</h3>
 
-> `Frontend` `UI/UX` `Backend Integration`
+<p><code>Frontend</code> <code>UI/UX</code> <code>Backend Integration</code></p>
 
-- Designed and developed **responsive corporate websites** for the company
-- Delivered frontend interfaces, UI improvements, and backend integration
-- Contributed to **production websites** including HRP Infra and HRP BIM
+<p>• Designed and developed <b>responsive corporate websites</b> for the company<br/>
+• Delivered frontend interfaces, UI improvements, and backend integration<br/>
+• Contributed to <b>production websites</b> including HRP Infra and HRP BIM</p>
 
 </td>
 </tr>
@@ -399,29 +338,8 @@ Aggressively hands-on, mildly caffeinated, permanently turning wild ideas into r
 
 <br/><br/>
 
-*"When you want something, all the universe conspires in helping you to achieve it."*  
-— **Paulo Coelho**
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<div align="center">
-
-### 🌌 Let's Connect & Build the Future Together
-
-<br/>
-
-<a href="https://www.linkedin.com/in/snehi26"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:snehipatel2612@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://nandishpatel.lovable.app"><img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://teamup.net.in"><img src="https://img.shields.io/badge/TeamUp-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="TeamUp"/></a>
+<i>"When you want something, all the universe conspires in helping you to achieve it."</i><br/>
+— <b>Paulo Coelho</b>
 
 <br/><br/>
 
